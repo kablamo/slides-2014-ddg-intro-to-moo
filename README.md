@@ -1,6 +1,8 @@
 # NOTE!
 
-This repo is out of now date.  Please see (this repo)[https://github.com/kablamo/slides-intro-to-moo] for the most up to date version of these slides.
+This repo is out of now date.  Please see [this repo](https://github.com/kablamo/slides-intro-to-moo) for the most up to date version of these slides.
+
+# END NOTE
 
 
 ![screenshot](https://raw.githubusercontent.com/kablamo/slides-2014-ddg-intro-to-moo/master/intro-to-moo.screenshot.png)
